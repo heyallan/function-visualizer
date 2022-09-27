@@ -1,3 +1,3 @@
-# function visualizer
+# Math function visualizer
 
-Function visualizer
+Math function visualizer
